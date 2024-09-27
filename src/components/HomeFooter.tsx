@@ -7,7 +7,7 @@ import {
 
 export default function HomeFooter() {
   return (
-    <div className="bg-gray-950 text-white shadow-md flex flex-col gap-2 p-5">
+    <div className="bg-gray-950 text-white shadow-md flex flex-col gap-2 p-5 absolute bottom-0 w-[100vw]">
         {/* coutnry name */}
       <div>
        <h1>Nepal</h1>
